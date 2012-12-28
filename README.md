@@ -40,5 +40,3 @@ If you have any questions feel free to contact me.
 Delon Newman
 
 Email: delon.newman@gmail.com
-
-Phone: 808-561-3617
