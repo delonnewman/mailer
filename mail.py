@@ -64,7 +64,7 @@ if __name__ == '__main__':
             print "message sent."
             sys.exit(0)
         else:
-            print "Must specify a recipient, subject, and body to send message."
+            print "USAGE: mail --to=RECIPIENT --subject=SUBJECT --body=BODY"
             sys.exit(1)
     except Exception, e:
         print e
